@@ -1,16 +1,65 @@
 ---
-title: "Personal Website"
+title: "Caleb Williams"
+about:
+  template: solana
+  image: profile_picture.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/calebjwilliams
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/calebvwilliams/
+    - icon: envelope
+      text: Email
+      url: "mailto:calebwilliams@g.ucla.edu"
+    - text: Resume
+      href: "Resume_3.4.2025.pdf"
+      
 ---
 
-This is a Quarto website.
+Hello! I'm Caleb, a fourth-year undergraduate student at UCLA pursuing a major in Statistics & Data Science.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA\
+B.S. in Statistics and Data Science | Sept 2020 - June 2025
 
-```{r}
-runif(10)
-rnorm(10)
-```
+Waseda University | Tokyo, Japan\
+CJL Intensive Language Program | Sept 2022 - Sept 2023
+
+## Coursework and Skills
+
+- Statistical Programming with R
+- Statistical Models & Data Mining
+- Data Analysis & Regression, 
+- Text Mining
+- Python with Applications
+- Data Structures & Algorithms
+- Probability Theory
+- Mathematical Statistics 
+- Mathematical Finance
+- Linear Algebra
+- Discrete Structures
+- Multivariate Calculus
+
+Technical Skills: Python, R, SQL, C++, Microsoft Excel, HTML, CSS
+
+
+## Projects 
+
+### [1. Recipe Recommendation App](https://github.com/calebjwilliams/reciperecommendation)
+Python\
+
+- Used Scrapy to webscrape 10,000+ recipes, nutritional info, reviews from allrecipes.com\
+- Cleaned and stored data with Pandas and Sqlite3\
+- Implemented Dash web app that provided recipe recommendations based on user-input ingredients, preferences, and cook times\
+
+### [2. Textual Analysis of Romantic Comedies](https://github.com/narenp12/stats133finalproject)
+R & Python\
+
+- Analyzed 30 popular rom-coms from the last 40 years to explore predictability trends across decades\
+- Compared textual content using word clouds, lexical diversity metrics, and N-gram pairwise correlations\
+- Examined cross-decade sentiment shifts and applied clustering analysis & LDA topic modeling\
+- Built a random forest model and compared its predictive performance against a DistilBERT model\
+---

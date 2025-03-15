@@ -1,5 +1,7 @@
 project:
-  type: website
+  type: website  
+  resources:
+    - "Resume_3.4.2025.pdf"
 
 website:
   title: "Caleb Williams"
@@ -12,9 +14,11 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: minty
     css: styles.css
     toc: true
 
 editor: visual
 
+execute: 
+  freeze: auto
