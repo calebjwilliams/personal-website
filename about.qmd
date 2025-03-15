@@ -1,9 +1,11 @@
 ---
 title: "About Me"
 ---
+Hello! I’m Caleb, a fourth-year undergraduate student at UCLA majoring in Statistics & Data Science.
 
-About this site
+I’m passionate about using data-driven insights to solve real-world problems, particularly in machine learning, NLP, and predictive analytics.
 
-```{r}
-1 + 1
-```
+I love working on projects that blend storytelling with data—whether it's analyzing trends in movies, building recommendation systems, or exploring cutting-edge AI models.
+
+Beyond academics, I enjoy learning new languages, going to concerts, and exploring cafes around LA! 
+---
