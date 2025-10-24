@@ -1,11 +1,9 @@
 ---
 title: "About Me"
 ---
-Hello! I’m Caleb, a fourth-year undergraduate student at UCLA majoring in Statistics & Data Science.
 
-I’m passionate about using data-driven insights to solve real-world problems, particularly in machine learning, NLP, and predictive analytics.
+Hello! I’m Caleb, a recent graduate from UCLA, now pursuing my Master’s in Finance at Waseda University.
 
-I love working on projects that blend storytelling with data—whether it's analyzing trends in movies, building recommendation systems, or exploring cutting-edge AI models.
+I’m passionate about using data-driven insights to solve real-world problems, from machine learning and NLP to predictive analytics and now financial markets. I especially enjoy projects that merge storytelling with data—whether it’s analyzing trends, building recommendation systems, or applying quantitative models to investment and risk management.
 
-Beyond academics, I enjoy learning new languages, going to concerts, and exploring cafes around LA! 
----
+Beyond academics, I enjoy learning new languages, going to concerts, and exploring cafes in new cities.

@@ -15,51 +15,55 @@ about:
       url: "mailto:calebwilliams@g.ucla.edu"
     - text: Resume
       href: "Resume_3.4.2025.pdf"
-      
 ---
 
-Hello! I'm Caleb, a fourth-year undergraduate student at UCLA pursuing a major in Statistics & Data Science.
+Hello! I’m Caleb, a recent graduate of UCLA where I majored in Statistics & Data Science. I’ve just started my Master’s in Finance at Waseda University, where I’m interested in blending data science with finance to build tools for analysis, prediction, and risk management.
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA\
-B.S. in Statistics and Data Science | Sept 2020 - June 2025
+Waseda Business School \| Tokyo, Japan\
+M.S. in Finance \| Sept 2025 - Sept 2027
 
-Waseda University | Tokyo, Japan\
-CJL Intensive Language Program | Sept 2022 - Sept 2023
+University of California, Los Angeles \| Los Angeles, CA\
+B.S. in Statistics and Data Science \| Sept 2020 - June 2025
 
 ## Coursework and Skills
 
-- Statistical Programming with R
-- Statistical Models & Data Mining
-- Data Analysis & Regression, 
-- Text Mining
-- Python with Applications
-- Data Structures & Algorithms
-- Probability Theory
-- Mathematical Statistics 
-- Mathematical Finance
-- Linear Algebra
-- Discrete Structures
-- Multivariate Calculus
+-   Statistical Programming with R
+-   Statistical Models & Data Mining
+-   Data Analysis & Regression,
+-   Text Mining & Natural Language Processing
+-   SQL & Databases
+-   Python with Applications
+-   Data Structures & Algorithms
+-   Probability Theory
+-   Mathematical Statistics
+-   Mathematical Finance
+-   Linear Algebra
+-   Discrete Structures
+-   Multivariate Calculus
+-   Statistical Consulting
 
 Technical Skills: Python, R, SQL, C++, Microsoft Excel, HTML, CSS
 
-
-## Projects 
+## Projects
 
 ### [1. Recipe Recommendation App](https://github.com/calebjwilliams/reciperecommendation)
+
 Python\
 
-- Used Scrapy to webscrape 10,000+ recipes, nutritional info, reviews from allrecipes.com\
-- Cleaned and stored data with Pandas and Sqlite3\
-- Implemented Dash web app that provided recipe recommendations based on user-input ingredients, preferences, and cook times\
+-   Used Scrapy to webscrape 10,000+ recipes, nutritional info, reviews from allrecipes.com\
+-   Cleaned and stored data with Pandas and Sqlite3\
+-   Implemented Dash web app that provided recipe recommendations based on user-input ingredients, preferences, and cook times
 
 ### [2. Textual Analysis of Romantic Comedies](https://github.com/narenp12/stats133finalproject)
+
 R & Python\
 
-- Analyzed 30 popular rom-coms from the last 40 years to explore predictability trends across decades\
-- Compared textual content using word clouds, lexical diversity metrics, and N-gram pairwise correlations\
-- Examined cross-decade sentiment shifts and applied clustering analysis & LDA topic modeling\
-- Built a random forest model and compared its predictive performance against a DistilBERT model\
----
+-   Analyzed 30 popular rom-coms from the last 40 years to explore predictability trends across decades\
+
+-   Compared textual content using word clouds, lexical diversity metrics, and N-gram pairwise correlations\
+
+-   Examined cross-decade sentiment shifts and applied clustering analysis & LDA topic modeling\
+
+-   Built a random forest model and compared its predictive performance against a DistilBERT model
