@@ -14,7 +14,7 @@ about:
       text: Email
       url: "mailto:calebwilliams@g.ucla.edu"
     - text: Resume
-      href: "Resume_3.4.2025.pdf"
+      href: "Resume_10.23.2025.pdf"
 ---
 
 Hello! I’m Caleb, a recent graduate of UCLA where I majored in Statistics & Data Science. I’ve just started my Master’s in Finance at Waseda University, where I’m interested in blending data science with finance to build tools for analysis, prediction, and risk management.
@@ -66,5 +66,4 @@ R & Python\
 
 -   Examined cross-decade sentiment shifts and applied clustering analysis & LDA topic modeling\
 
--   Built a random forest model and compared its predictive performance against a DistilBERT model
-test edit
+-   Built a random forest model and compared its predictive performance against a DistilBERT model test edit

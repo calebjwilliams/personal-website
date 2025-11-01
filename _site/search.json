@@ -4,41 +4,34 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello! I’m Caleb, a fourth-year undergraduate student at UCLA majoring in Statistics & Data Science.\nI’m passionate about using data-driven insights to solve real-world problems, particularly in machine learning, NLP, and predictive analytics.\nI love working on projects that blend storytelling with data—whether it’s analyzing trends in movies, building recommendation systems, or exploring cutting-edge AI models.\nBeyond academics, I enjoy learning new languages, going to concerts, and exploring cafes around LA!"
+    "text": "Hello! I’m Caleb, a recent graduate from UCLA, now pursuing my Master’s in Finance at Waseda University in Tokyo, Japan.\nI’m passionate about using data-driven insights to solve real-world problems, from machine learning and NLP to predictive analytics and now financial markets. I especially enjoy projects that merge storytelling with data—whether it’s analyzing trends, building recommendation systems, or applying quantitative models to investment and risk management.\nBeyond academics, I enjoy learning new languages, going to concerts, and exploring cafes in new cities."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Caleb Williams",
     "section": "",
-    "text": "Hello! I’m Caleb, a fourth-year undergraduate student at UCLA pursuing a major in Statistics & Data Science."
+    "text": "Hello! I’m Caleb, a recent graduate of UCLA where I majored in Statistics & Data Science. I’ve just started my Master’s in Finance at Waseda University, where I’m interested in blending data science with finance to build tools for analysis, prediction, and risk management."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Caleb Williams",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics and Data Science | Sept 2020 - June 2025\nWaseda University | Tokyo, Japan\nCJL Intensive Language Program | Sept 2022 - Sept 2023"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Caleb Williams",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Education\nWaseda Business School | Tokyo, Japan\nM.S. in Finance | Sept 2025 - Sept 2027\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics and Data Science | Sept 2020 - June 2025"
   },
   {
     "objectID": "index.html#coursework-and-skills",
     "href": "index.html#coursework-and-skills",
     "title": "Caleb Williams",
     "section": "Coursework and Skills",
-    "text": "Coursework and Skills\n\nStatistical Programming with R\nStatistical Models & Data Mining\nData Analysis & Regression,\nText Mining\nPython with Applications\nData Structures & Algorithms\nProbability Theory\nMathematical Statistics\nMathematical Finance\nLinear Algebra\nDiscrete Structures\nMultivariate Calculus\n\nTechnical Skills: Python, R, SQL, C++, Microsoft Excel, HTML, CSS"
+    "text": "Coursework and Skills\n\nStatistical Programming with R\nStatistical Models & Data Mining\nData Analysis & Regression,\nText Mining & Natural Language Processing\nSQL & Databases\nPython with Applications\nData Structures & Algorithms\nProbability Theory\nMathematical Statistics\nMathematical Finance\nLinear Algebra\nDiscrete Structures\nMultivariate Calculus\nStatistical Consulting\n\nTechnical Skills: Python, R, SQL, C++, Microsoft Excel, HTML, CSS"
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
     "title": "Caleb Williams",
     "section": "Projects",
-    "text": "Projects\n\n1. Recipe Recommendation App\nPython\n\n\nUsed Scrapy to webscrape 10,000+ recipes, nutritional info, reviews from allrecipes.com\n\nCleaned and stored data with Pandas and Sqlite3\n\nImplemented Dash web app that provided recipe recommendations based on user-input ingredients, preferences, and cook times\n\n\n\n\n2. Textual Analysis of Romantic Comedies\nR & Python\n\n\nAnalyzed 30 popular rom-coms from the last 40 years to explore predictability trends across decades\n\nCompared textual content using word clouds, lexical diversity metrics, and N-gram pairwise correlations\n\nExamined cross-decade sentiment shifts and applied clustering analysis & LDA topic modeling\n\nBuilt a random forest model and compared its predictive performance against a DistilBERT model"
+    "text": "Projects\n\n1. Recipe Recommendation App\nPython\n\n\nUsed Scrapy to webscrape 10,000+ recipes, nutritional info, reviews from allrecipes.com\n\nCleaned and stored data with Pandas and Sqlite3\n\nImplemented Dash web app that provided recipe recommendations based on user-input ingredients, preferences, and cook times\n\n\n\n2. Textual Analysis of Romantic Comedies\nR & Python\n\n\nAnalyzed 30 popular rom-coms from the last 40 years to explore predictability trends across decades\n\nCompared textual content using word clouds, lexical diversity metrics, and N-gram pairwise correlations\n\nExamined cross-decade sentiment shifts and applied clustering analysis & LDA topic modeling\n\nBuilt a random forest model and compared its predictive performance against a DistilBERT model test edit"
   }
 ]
