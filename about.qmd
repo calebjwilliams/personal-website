@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-Hello! I’m Caleb, a recent graduate from UCLA, now pursuing my Master’s in Finance at Waseda University.
+Hello! I’m Caleb, a recent graduate from UCLA, now pursuing my Master’s in Finance at Waseda University in Tokyo, Japan.
 
 I’m passionate about using data-driven insights to solve real-world problems, from machine learning and NLP to predictive analytics and now financial markets. I especially enjoy projects that merge storytelling with data—whether it’s analyzing trends, building recommendation systems, or applying quantitative models to investment and risk management.
 
